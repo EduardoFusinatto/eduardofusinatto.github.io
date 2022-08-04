@@ -19,8 +19,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("/07-projeto-portfolio/0709-formacao-css/portfolio/img/detalhe.svg")
-    no-repeat center;
+  background: url("/img/detalhe.svg") no-repeat center;
   position: absolute;
   bottom: -50px;
   left: 20px;
@@ -111,13 +110,11 @@
   top: -4px;
 }
 .cursos h3::before {
-  background: url("/07-projeto-portfolio/0709-formacao-css/portfolio/img/cursos.svg")
-    no-repeat center center;
+  background: url("/img/cursos.svg") no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url("/07-projeto-portfolio/0709-formacao-css/portfolio/img/idiomas.svg")
-    no-repeat center center;
+  background: url("/img/idiomas.svg") no-repeat center center;
 }
 
 .formacao-extra {
